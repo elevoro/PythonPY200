@@ -35,5 +35,11 @@ files:
 - name: tests/__init__.py
   visible: false
   learner_created: false
-status: Unchecked
-record: -1
+- name: double_linked_node.py
+  visible: true
+  learner_created: true
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Wed, 29 Sep 2021 20:12:58 UTC
+record: 1

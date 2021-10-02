@@ -32,4 +32,8 @@ class Node:
         self.is_valid(next_)
         self._next = next_
 
-# TODO реализовать класс DoubleLinkedNode
+
+node_1 = Node(1)
+print(node_1)
+node_2 = Node(2)
+node_4 = Node(4)
